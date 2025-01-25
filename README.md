@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🔭 I am a data scientist with a master's degree and over 3 years of experience.
-- 🌱 I am currently learning MLOPs and AWS.
+- 🔭 I am a data scientist with a master's degree and over 4 years of experience.
+- 🌱 I am currently working on MLOPs and AWS.
 - 👯 I am looking to collaborate on Data Science and AI-related projects
 - 🤔 I am looking for remote opportunities in the field of DS and AI.
 
